@@ -44,6 +44,6 @@ export const ApiProvider = ({children}) => {
     );
 };
 
-// compatibility file for misspelled import
+
 export { default } from './ApiContext';
 export { ApiProvider } from './ApiContext';
